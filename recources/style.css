@@ -130,6 +130,8 @@ button {
 }
 
 button p {
+    display: relative;
+    bottom: 11px;
     font-weight: 900;
 }
 
