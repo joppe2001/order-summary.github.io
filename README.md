@@ -1,2 +1,2 @@
-# order-summary.github.io
-an order summary template
+solution to:
+an order summary template based on https://www.fronendmentor.io/
