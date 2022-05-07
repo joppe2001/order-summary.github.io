@@ -117,7 +117,6 @@ button {
 }
 
 button {
-    font-family: 'Red Hat Display';
     border: none;
     margin-top: 25px;
     margin-bottom: 27px;
@@ -127,12 +126,6 @@ button {
     width: 100%;
     height: 40px;
     box-shadow: hsl(245, 75%, 52%, 0.45) 0px 10px 20px;
-}
-
-button p {
-    display: relative;
-    bottom: 13px;
-    font-weight: 900;
 }
 
 #music-hero {
